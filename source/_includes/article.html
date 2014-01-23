@@ -16,12 +16,12 @@
   </header>
 {% endunless %}
 {% if index %}
-<div class="entry-content">
-  <p>
-    {{ content | summary | replace_first:'</p>','' | replace_first:'<p>', '' }}
-    <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
-  </p>
-</div>
+  <div class="entry-content">
+    <p>
+      {{ content | summary | replace_first:'<p>':'' | replace_first:'</p>' }}
+      <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+    </p>
+  </div>
 {% else %}
 <div class="entry-content">{{ content }}</div>
 {% endif %}
