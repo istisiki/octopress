@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://istisiki.github.io/blog
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: octopress.staceycardoso.com
+title: Stacey Cardoso
+subtitle: Partial Documentation of a Programmer's Reality
+author: SKDCardoso
 simple_search: http://google.com/search
 description:
 
@@ -13,7 +13,7 @@ description:
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%Y-%m-%d"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /blog/atom.xml
@@ -26,8 +26,8 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /blog
-permalink: /blog/:year/:month/:day/:title/
+root: /
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public/blog
 plugins: plugins
@@ -41,10 +41,10 @@ rdiscount:
     - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+paginate: 3          # Posts per page on the blog index
+pagination_dir:   # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
-excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "[...]"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
 
