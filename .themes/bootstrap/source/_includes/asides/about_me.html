@@ -1,0 +1,11 @@
+{% if site.profile_title %}
+<section>
+  <h4>{{ site.profile_title }}</h4>
+  <div class='col-md-5 column'>
+    <img src='{{ site.profile_pic_url }}' alt='{{ site.author }}' style='max-width: none; padding: 15px 15px 0 0;' width='140' />
+  </div>
+  <div class='col-md-7 column'>
+    {{ site.profile_text }}
+  </div>
+</section>
+{% endif %}

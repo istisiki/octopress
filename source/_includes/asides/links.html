@@ -1,0 +1,11 @@
+<h3>Links</h3>
+<ul class="list-unstyled">
+  {% for link in site.links %}
+  <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+  {% endfor %}
+  <li><a href='/blog/archives' title='Blog Archive'>Archives</a></li>
+  <li>
+  <a href='{{ site.subscribe_rss }}' rel='subscribe-rss'
+    title='Subscribe via RSS'>RSS</a>
+  </li>
+</ul>

@@ -1,0 +1,10 @@
+{% if site.simple_search %}
+<section>
+  <form action='{{ site.simple_search }}' method='get'>
+    <fieldset role='search'>
+      <input type='hidden' name='q' value='site:{{ site.url | shorthand_url }}' />
+      <input type='text' name='q' class='search-query' placeholder='Search' />
+    </fieldset>
+  </form>
+</section>
+{% endif %}

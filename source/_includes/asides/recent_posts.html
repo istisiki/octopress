@@ -1,10 +1,8 @@
-<section class="well">
-  <ul id="recent_posts" class="nav nav-list">
-    <li class="nav-header">Recent Posts</li>
+<section>
+  <h3>Recently I wrote about...</h3>
+  <ul id="recent_posts" class='list-unstyled'>
     {% for post in site.posts limit: site.recent_posts %}
-      <li class="post">
-        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+      <li><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </section>

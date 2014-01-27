@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% if page.sidebar == false %}
-<article role="article" class="span12">
+<article role="article" class="col-md-12">
 {% else %}
-<article role="article" class="span9">
+<article role="article" class="col-md-8 column">
 {% endif %}
   {% if page.title %}
   <header class="page-header">
@@ -34,7 +34,7 @@ layout: default
   {% endunless %}
 </article>
 {% unless page.sidebar == false %}
-<aside class="sidebar-nav span3">
+<aside class="sidebar-nav col-md-4 column">
   {% if site.page_asides.size %}
     {% include_array page_asides %}
   {% else %}

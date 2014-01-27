@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://octopress.staceycardoso.com/blog
+url: http://octopress.staceycardoso.com
 title: Stacey Cardoso
 subtitle: Partial Documentation of a Programmer's Reality
-author: SKDCardoso
+author: Stacey KDC
 simple_search: http://google.com/search
 description:
 
@@ -13,7 +13,7 @@ description:
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "%Y-%m-%d"
+date_format: "%d-%m-%Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -32,25 +32,26 @@ source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: categories
 markdown: rdiscount
 rdiscount:
   extensions:
     - autolink
     - footnotes
     - smart
-pygments: false # default python pygments have been replaced by pygments.rb
+pygments: true # default python pygments have been replaced by pygments.rb
 
 paginate: 3          # Posts per page on the blog index
 pagination_dir:   # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+recent_posts: 3       # Posts in the sidebar Recent Posts section
 excerpt_link: "[...]"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+#default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/about_me.html, asides/links.html, asides/archive.html, asides/recent_posts.html, asides/search.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -65,7 +66,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # Github repositories
 github_user:
 github_repo_count: 0
-github_show_profile_link: true
+github_show_profile_link: false
 github_skip_forks: true
 
 # Twitter
@@ -90,11 +91,21 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: staceytalkstoomuch
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+
+# Custom Asides
+profile_title: Hi, I'm Stacey!
+profile_pic_url: http://blog.staceycardoso.com/wp-content/uploads/2013/06/307995_2136590947180_4510923_n.jpg
+profile_text: <p>I make software and (maybe) music. I like cats and board games and I live in the perpetual summer of Cebu, Philippines.</p><p>Nice to meet you!</p>
+
+links: [[Lifetime To Do, "http://todo.staceycardoso.com"], [Mah Homies, "http://blog.staceycardoso.com/mah-homies/"]]
+
+include_top_navigation: false
