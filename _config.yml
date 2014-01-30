@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://octopress.staceycardoso.com
+url: http://blog.staceycardoso.com
 title: Stacey Cardoso
 subtitle: Partial Documentation of a Programmer's Reality
 author: Stacey KDC
@@ -95,7 +95,7 @@ disqus_short_name: staceytalkstoomuch
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-47614157-1
 
 # Facebook Like
 facebook_like: true
@@ -103,9 +103,9 @@ facebook_like: true
 
 # Custom Asides
 profile_title: Hi, I'm Stacey!
-profile_pic_url: http://blog.staceycardoso.com/wp-content/uploads/2013/06/307995_2136590947180_4510923_n.jpg
+profile_pic_url: https://farm8.staticflickr.com/7292/12217242284_349d369fa7_q.jpg
 profile_text: <p>I make software and (maybe) music. I like cats and board games and I live in the perpetual summer of Cebu, Philippines.</p><p>Nice to meet you!</p>
 
-links: [[Lifetime To Do, "http://todo.staceycardoso.com"], [Mah Homies, "http://blog.staceycardoso.com/mah-homies/"]]
+links: [[Lifetime To Do, "http://staceycardoso.com/lifetime-to-do"], [Mah Homies, "http://blog.staceycardoso.com/mah-homies/"]]
 
 include_top_navigation: false
