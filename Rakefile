@@ -220,7 +220,19 @@ task :deploy do
   end
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
+  Rake::Task[:copyfeeds].invoke
   Rake::Task["#{deploy_default}"].execute
+end
+
+# Feed files other than atom.xml that needed to be compatible with previous blog
+#feed_files = ["feed"]
+feed_files = ["feed/index.xml"]
+
+desc "copy atom.xml to feed_files"
+task :copyfeeds do
+  feed_files.each do |filename|
+    cp("#{public_dir}/atom.xml","#{public_dir}/#{filename}")
+  end
 end
 
 desc "Generate website and deploy"

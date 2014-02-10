@@ -1,0 +1,98 @@
+---
+layout: post
+status: publish
+published: true
+title: "8:36pm Habit"
+author: stacey
+date: 2014-02-04 22:15:59 +0800
+categories: 
+- personal projects
+comments: true
+---
+
+I'm doing a new personal project. I like to call it the 8:36pm Habit.
+The idea is to take a picture of whatever is directly in front of you at
+20:36 (8:36pm). You do this everyday until forever. (If you miss a day,
+you won't die. I promise.) 
+
+I took the idea from [Buster Benson's own personal project][836pm]. 
+He's been doing it for 5 years (a few days shy but let's give it to him) 
+and I'm in awe of the amount of pictures he's accumulated.
+
+Of course, in 2009 Instagram was yet to be conceived so he's beeen posting 
+it on Flickr and there's [a whole community of people doing this
+project][community]. (Ok, maybe they're a community of like five
+people.)
+
+### So why am I doing this?
+
+I guess I'm obsessed with personal data. I want to be able to quantify
+the things happening to me. Hours of sleep. Running mileage. Heart
+rate. Weather patterns. (Kidding. Or am I?) It might be a direct result
+of being the spawn of a statistician but that link has not yet been
+proven.
+
+It's quite a challenge to do this regressively. So I thought I'd start now 
+and give my future self a break. Reminds me of this XKCD webcomic:
+
+<a href="https://xkcd.com/974/">
+<img src="http://imgs.xkcd.com/comics/the_general_problem.png" title="I
+find that when someone's taking time to do something right in the
+present, they're a perfectionist with no ability to prioritize, whereas
+when someone took time to do something right in the past, they're a
+master artisan of great foresight.">
+</a>
+
+Pictures aren't exactly "quantifiable" per se but we'll still see a
+pattern (or lack thereof).
+
+### Longitudinal Study
+
+A single picture won't be a perfect representation of the whole day but a 
+single sample taken everyday for the next few years will hopefully 
+tell me something useful. If not, then at least we get pictures to be all
+nostalgic about.
+
+I won't know the real value unless I do it so I might as well. After
+sometime has passed, I'll review all the samples and see what I've been
+up to. This makes me really excited for time to pass. Like those times
+when I setup a time lapse camera.
+
+### Setup
+
+- **Make sure you always have your camera or camera phone.** Duh. Or at
+  least make sure you have it by 8:36pm.
+- **Set an alarm for 8:36pm.** It has to be 8:36pm. If not, you might as
+  well be in the uncool 8:37pm community.
+- **Store the picture somewhere.** The recommended platform is Flickr but 
+  you can post it wherever--Instagram, Facebook, your blog, your hard
+  disk. My Instagram is a hibernating polar bear that only recently
+  unlocked the "Load More" badge. I'm posting these there.
+- (If you're going to post it somewhere) **make sure the caption starts
+  with 8:36pm** or 20:36. I've decided to use the more common convention
+  so search engines won't have to work so hard.
+- **If you miss a day, DON'T PANIC.** 8:36pm will come around again
+  tomorrow.
+
+
+<br/>
+<br/>
+Here are a few I've taken in the past three days. Oh, and I only started
+three days ago. 
+
+<iframe src="//instagram.com/p/j_p5B7TRQq/embed/" width="306"
+height="355" frameborder="0" scrolling="no" style="float: left;"
+allowtransparency="true"></iframe>
+
+<iframe src="//instagram.com/p/j9FX2BTRRn/embed/" width="306"
+height="355" frameborder="0" scrolling="no" style="float: left;"
+allowtransparency="true"></iframe>
+
+<iframe src="//instagram.com/p/j6hsYqTRYq/embed/" width="306"
+style="float: left;"
+height="355" frameborder="0" scrolling="no"
+allowtransparency="true"></iframe>
+<div style="clear:both;">&nbsp;</div>
+
+[836pm]: http://enjoymentland.com/2009/02/07/836pm/
+[community]: https://secure.flickr.com/search/?s=rec&z=e&w=all&q=8%3A36pm&m=text
