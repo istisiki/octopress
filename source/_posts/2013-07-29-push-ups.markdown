@@ -1,0 +1,90 @@
+--- 
+layout: post
+status: publish
+published: true
+title: Push-ups
+author: stacey
+author_login: stacey
+author_email: staceykay.dc@gmail.com
+wordpress_id: 2243
+wordpress_url: http://blog.staceycardoso.com/?p=2243
+date: 2013-07-29 13:22:50 +08:00
+categories: 
+- running
+- fitness
+tags: 
+- running
+- fitness
+- pushups
+comments: []
+
+---
+I remember when I was 5 or maybe younger, my papa would brag about his strength and further emphasize his point by doing push-ups. He would do a lot of it. (At the time, I still couldn't count past 10 so I have no idea how many really. It was beyond 10, for sure.) Then he'd do single hand push-ups. Then he'd ask me to climb on his back and he'd do more. (With both hands but still...)
+
+I was very impressed. My mother, who was probably already very used to such a display from my papa, would just scoff and hit him lightly on his shoulder to say "that's enough". My papa then was only 30 or 31 years old. I don't recall him ever going to the gym. (I don't think there was a gym in our town at the time.)
+
+I'm 26 and though I consider myself fit, I would fail the <a href="http://www.nytimes.com/2008/03/11/health/nutrition/11well.html?em&amp;ex=1205553600&amp;en=43b8530ee36900ef&amp;ei=5087%0A&amp;_r=0" target="_blank">basic push-up test</a>. I can do one push up in good form starting with my chest on the floor and lifting my body up. If you ask me to get my torso back on the ground, I would collapse into a sorry heap of dead weight.
+
+Long story short, I want to be able to do decent push ups. <a href="http://en.wikipedia.org/wiki/United_States_Army_Physical_Fitness_Test" target="_blank">To be military fit, I should be able to do 46.</a>
+<table>
+<tbody>
+<tr align="center">
+<td colspan="6"><b>PUSH-UPS</b>
+<small>FEMALE - Standards from <a href="http://en.wikipedia.org/wiki/United_States_Army_Physical_Fitness_Test" target="_blank">here</a></small> 
+</td>
+</tr>
+<tr>
+<td><b>AGE GROUP</b></td>
+<td>17-21</td>
+<td>22-26</td>
+<td>27-31</td>
+<td>32-36</td>
+</tr>
+<tr>
+<td><b>MAXIMUM</b> <small>100%</small></td>
+<td>42</td>
+<td>46</td>
+<td>50</td>
+<td>45</td>
+</tr>
+<tr>
+<td><b>MINIMUM</b> <small>60%</small></td>
+<td>19</td>
+<td>17</td>
+<td>17</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr align="center">
+<td colspan="6"><b>PUSH-UPS</b>
+<small>MALE - Standards from <a href="http://en.wikipedia.org/wiki/United_States_Army_Physical_Fitness_Test" target="_blank">here</a></small></td>
+</tr>
+<tr>
+<td><b>AGE GROUP</b></td>
+<td>17-21</td>
+<td>22-26</td>
+<td>27-31</td>
+<td>32-36</td>
+</tr>
+<tr>
+<td><b>MAXIMUM</b> <small>100%</small></td>
+<td>71</td>
+<td>74</td>
+<td>77</td>
+<td>75</td>
+</tr>
+<tr>
+<td><b>MINIMUM</b> <small>60%</small></td>
+<td>42</td>
+<td>40</td>
+<td>39</td>
+<td>36</td>
+</tr>
+</tbody>
+</table>
+So today, I started with <a href="http://scoobysworkshop.com/zero-to-100-pushups-for-complete-beginners/" target="_blank">this guy's guide</a>. He looks scary and his 'acting' is wanting! But he has the most beginner-friendly program. 100 is a big number but 46 is realistic.
+
+As motivation, I just keep thinking this will help me improve my core strength (which has many <a href="http://www.ncbi.nlm.nih.gov/pubmed/19077735" target="_blank">benefits for my running performance</a> or <a href="http://content.wwu.edu/cdm/singleitem/collection/theses/id/406/rec/10" target="_blank">not</a>) and you know.. in case of a zombie apocalypse. I don't know how it will help me then but maybe they'd spare my life if I can prove my 'fitness'.

@@ -1,0 +1,43 @@
+--- 
+layout: post
+status: publish
+published: true
+title: Too Soon(?)
+author: stacey
+author_login: stacey
+author_email: staceykay.dc@gmail.com
+wordpress_id: 2125
+wordpress_url: http://blog.staceycardoso.com/?p=2125
+date: 2013-06-28 22:43:20 +08:00
+categories: 
+- personal
+- technology
+tags: 
+- technology
+- mobile phone
+comments: []
+
+---
+Like my father, I hold on to my tech a little longer than most people. I even think if not for his postpaid plan's free phone every two yeas, he'd keep his phone as long as I do, If not longer.
+
+Earlier this week however, I encountered a problem with my phone. I unplugged the phone after the usual morning preparations and sat down reading my RSS feeds on it as I was having coffee. After about 20 minutes of reading, I noticed the battery was already less than half way through. That can't be right.
+
+When I arrived in the office, I plugged it back in but the battery indicator did not change into the charging icon. Definitely not right.
+
+Further inspection revealed that my phone's body protector was hiding the fact that I can no longer close the back panel because the battery swelled. A common indicator that the battery already needs replacing. *sigh*
+
+[caption id="attachment_2130" align="aligncenter" width="372"]<a href="http://blog.staceycardoso.com/wp-content/uploads/2013/06/DSCN1701.jpg"><img class=" wp-image-2130" title="Back panel that refuses to close." alt="Back panel that refuses to close." src="http://blog.staceycardoso.com/wp-content/uploads/2013/06/DSCN1701-1024x768.jpg" width="372" height="279" /></a> Back panel that refuses to close.[/caption]
+
+[caption id="attachment_2131" align="aligncenter" width="372"]<a href="http://blog.staceycardoso.com/wp-content/uploads/2013/06/DSCN1700.jpg"><img class=" wp-image-2131" title="Hey there, dinosaur." alt="Hey there, dinosaur." src="http://blog.staceycardoso.com/wp-content/uploads/2013/06/DSCN1700-1024x768.jpg" width="372" height="279" /></a> Hey there, dinosaur.[/caption]
+
+My phone is already a dinosaur by today's standards, so I thought maybe it's about time I get a replacement. Then again, my current phone has only been with me for 2 years and 2 months. That's less than half the lifespan of my last phone which was decommissioned only after I could no longer find replacement batteries.
+
+[caption id="attachment_2132" align="aligncenter" width="300"]<a href="http://blog.staceycardoso.com/wp-content/uploads/2013/06/200293_1783446878799_5584143_n.jpg"><img class="size-medium wp-image-2132" title="My very old Motorola Rokr. 5+ years in service." alt="My very old Motorola Rokr. 5+ years in service." src="http://blog.staceycardoso.com/wp-content/uploads/2013/06/200293_1783446878799_5584143_n-300x225.jpg" width="300" height="225" /></a> My very old Motorola Rokr. 5+ years in service.[/caption]
+
+This led me to ask, how long do people hold on to their phones before they replace them? Five years seem like a very long time. On the other hand, 2 years seem rather short as well. <a href="http://blog.staceycardoso.com/wp-content/uploads/2013/06/mobile-future.publications.handset-replacement-cycle.pdf">A 2011 study by Mobile Future </a>shows that in some countries the average can go up to 6 years. So I guess I'm not as weird as I initially thought. (Or maybe I'm just weird compared to my family?) Of course, this study was made in 2011 with its latest data being in 2010--phones were only starting to get "smart" then.
+
+At any rate, I would like to stretch my phone's lifespan for another year (or two? :D). I hope I can find a replacement battery soon. And I actually like the sideway glances the sales personel or tech support gives me when they see my almost too old phone for the first time. They give me that "are you serious?" look.
+
+How long was it before you replaced your last phone? Is 2 years closer to too soon or too late?
+
+On a totally unrelated note, check out <a href="http://tumblr.staceycardoso.com/post/54100980757/four-year-old-chucks" target="_blank">my very old chucks.</a> Without a doubt, this one needs a replacement.
