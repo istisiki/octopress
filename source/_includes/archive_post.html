@@ -1,9 +1,17 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
-<h2><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h2>
+<h5>
+  <a href="{{ root_url }}{{ post.url }}">
+    {{post.title}}
+  </a>
+  <small class='text-muted'>
+    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>
+      {{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}
+      </time>
 
-<h6 class='text-muted'>
-<time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}</time>
-{% if category != '0' %}
-<span class="categories">posted in {{ post.categories | category_links }}</span>
-{% endif %}
-</h6>
+      {% if category != '0' %}
+      <span class="categories">
+        posted in {{ post.categories | category_links }}
+      </span>
+      {% endif %}
+  </small>
+</h5>
