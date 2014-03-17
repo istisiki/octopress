@@ -112,9 +112,10 @@ Yolanda-striken but they still showed their support. Kudos! Photo &#169;
 <a href="https://www.facebook.com/jameslgo?fref=ts" target="_blank">James Go</a>
 </p>
 
-Or maybe it was the beer. Several of the stations were serving beer, you
-know. People sharing beer are several times friendlier and light-hearted
-than sober humans. Or maybe it was just the carbs in the beer.
+Or maybe it was the beer. Several of the stations were serving it, you
+know. People sharing this wonderful elixir are several times friendlier and 
+light-hearted than sober humans. Or maybe it was just the carbs that was making
+me a little light-headed.
 
 <p class='text-center text-muted'>
   <img
@@ -142,6 +143,16 @@ width="576"
 height="396"><br/>
 No (wo)man left behind. Last runner with full escort. Photo &#169; <a
 href="https://www.facebook.com/jason.dorado?fref=ts" target="_blank">Jason Dorado</a>
+</p>
+
+<p class='text-center text-muted'>
+<img
+src="https://farm3.staticflickr.com/2656/13146679303_5834fdc239_z.jpg"
+alt="Obligatory post-race Garmin shot."
+title="Obligatory post-race Garmin shot."
+width="576">
+<br/>
+Obligatory post-race Garmin shot.
 </p>
 
 When I finished my first half-marathon (21km), I felt like a superhero.
@@ -174,4 +185,7 @@ src="https://farm8.staticflickr.com/7392/13146679793_1c3fec5121_z.jpg"
 href="https://www.facebook.com/reynanopadaphotography" target="_blank">Reynan Opada</a>
 </p>
 
-<h2 style="color: #9c2f80"> Happy Women's Month! </h2>
+<iframe width='465' height='548' frameborder='0'
+src='http://connect.garmin.com:80/activity/embed/458979614'></iframe>
+
+<h2 style="color: #9c2f80; text-align: center; font-weight:bold;"> Happy Women's Month! </h2>
