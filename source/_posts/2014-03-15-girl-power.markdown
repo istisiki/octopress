@@ -41,7 +41,7 @@ src="https://farm8.staticflickr.com/7317/13146786903_255a36ee38_z.jpg"
 alt="244 runners started the race and 242 will finish. Not a bad!"
 title="244 runners started the race and 242 will finish. Not a bad!"
 width="576"><br/>
-244 runners started the race and 242 will finish. Not a bad! Photo
+244 runners started the race and 242 will finish. Not a bad statistic! Photo
 &#169; <a href="https://www.facebook.com/reynanopadaphotography" target="_blank">Reynan Opada</a>
 </p>
 

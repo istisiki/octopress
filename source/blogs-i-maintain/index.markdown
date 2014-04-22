@@ -8,8 +8,10 @@ footer: true
 ---
 
 Here are some blogs I curate:
-- [Poetry To Code][poetrytocode]
-- [Sh t I Listen To][shtilistento]
+<ul>
+<li> <a href="http://poetrytocode.tumblr.com">Poetry To Code</a></li>
+<li> <a href="http://sh-tilistento.tumblr.com">Sh t I Listen To</a></li>
+</ul>
 
 [poetrytocode]: http://poetrytocode.tumblr.com
 [shtilistento]: http://sh-tilistento.tumblr.com
