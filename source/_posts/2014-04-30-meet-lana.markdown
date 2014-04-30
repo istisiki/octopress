@@ -1,0 +1,121 @@
+---
+layout: post
+status: publish
+title: "Meet Lana"
+author: stacey
+date: 2014-04-30 14:10:26 +0800
+categories: 
+- music
+- ukulele
+comments: true
+---
+
+I almost named her Lucy after [Lucy Lawless][lucy] who gave life to [my 
+childhood heroine][xena] but I wanted a less common name. I wanted to
+keep the simplicity, though. Both names mean 'light', albeit in different
+languages.
+
+<table style="width: 565px; margin:auto;">
+  <tr>
+  <td>
+  <p classs='text-center text-muted'>
+  <a href="https://www.flickr.com/photos/heystaceeeyyy/14072122304"
+    target="_blank">
+  <img
+    src="https://farm8.staticflickr.com/7434/14072122304_e558d19cc8_b.jpg"
+    width="280">
+  </a>
+  <br/>
+  </p>
+  </td>
+
+  <td>
+  <p class='text-center text-muted'>
+  
+  <a href="https://www.flickr.com/photos/heystaceeeyyy/14071650655"
+     target="_blank">
+  <img
+    src="https://farm8.staticflickr.com/7436/14071650655_1cc00aff1f_b.jpg"
+    width="280">
+  </a>
+  <br/>
+  </p>
+  </td>
+  </tr>
+</table>
+
+
+In Gaelic, it means ‘child’ and the ukulele is very much like a child
+version of the guitar but not really.
+
+In English it derives from Alana which means ‘fair’ or ‘good-looking’
+and this ukulele is a thing of beauty. In a wonderful non-coincidence, in
+the TV series [Once Upon a Time][ouat], Snow White’s Evil Queen, who is
+traditionally portrayed as forever in a quest to be the fairest, 
+is played by [Lana Parrilla][lana]. (I think she’s beautiful, too.) The
+play in correlation is wonderful.
+
+I’m not into the tradition of naming inanimate things but my soprano
+ukulele had a name (Amélie, with the acute 'e' just like the quirky
+movie). For symmetry, this one gets a name as well.
+
+Meet Lana, my concert-sized all Acacia ukulele.
+<p class='text-center text-muted'>
+  <a href="https://www.flickr.com/photos/heystaceeeyyy/13885041049"
+    target="_blank">
+  <img
+    src="https://farm6.staticflickr.com/5004/13885041049_445a5d9acd_b.jpg"
+    width="576">
+  </a>
+  <br/>
+</p>
+
+
+<p class='text-center text-muted'>
+<a href="https://www.flickr.com/photos/heystaceeeyyy/14068471152/"
+target="_blank">
+<img
+src="https://farm3.staticflickr.com/2908/14068471152_ee0962dca9_b.jpg"
+width="576">
+</a>
+<br/>
+With my guide/salesman, Jando, a shy guy but one hell of a chatterbox
+and eager to show me around their workshop.
+</p>
+
+<p class='text-center text-muted'>
+<a href="https://www.flickr.com/photos/heystaceeeyyy/14048545786"
+   target="_blank">  
+<img
+src="https://farm8.staticflickr.com/7406/14048545786_700f30c508_b.jpg"
+width="576">
+</a>
+<br/>
+Yup, she's from <a href="https://www.facebook.com/thenewsusingsguitar">Susing's</a>. Yet again.
+</p>
+
+Let's go make musical memories, Lana.
+
+<br>
+
+<hr>
+
+**Date adopted**: 26-April-2014
+
+**Maker**: [New Susing's Guitars][susings]
+
+**Make**: 
+<ul>
+<li>Acacia top, back, and side</li>
+<li>Mahogany neck</li>
+<li>Ebony bridge and fretboard</li>
+<li>Ebony nut and saddle</li>
+<li>Chrome machineheads</li>
+<li>Matte finish</li>
+</ul>
+
+[susings]: https://www.facebook.com/thenewsusingsguitar
+[ouat]: http://abc.go.com/shows/once-upon-a-time
+[lana]: https://en.wikipedia.org/wiki/Lana_Parrilla
+[lucy]: https://en.wikipedia.org/wiki/Lucy_Lawless
+[xena]: https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess
