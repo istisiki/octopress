@@ -5,7 +5,6 @@ published: true
 title: Sumire
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1877
 wordpress_url: http://blog.staceycardoso.com/?p=1877
 date: 2013-03-28 02:28:04 +08:00

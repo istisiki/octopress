@@ -5,7 +5,6 @@ published: true
 title: Orchestral Dreams
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2347
 wordpress_url: http://blog.staceycardoso.com/?p=2347
 date: 2013-09-11 23:07:35 +08:00
@@ -19,7 +18,6 @@ comments: true
 old_comments: 
 - id: 895
   author: Clado
-  author_email: cladosky@gmail.com
   author_url: http://www.dahonglaya.com
   date: 2013-09-12 10:01:04 +0800
   date_gmt: 2013-09-12 02:01:04 +0800

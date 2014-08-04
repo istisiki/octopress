@@ -5,7 +5,6 @@ published: true
 title: TARDIS in Hong Kong
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2432
 wordpress_url: http://blog.staceycardoso.com/?p=2432
 date: 2013-10-23 19:17:39 +08:00

@@ -5,7 +5,6 @@ published: true
 title: And Then There Are Books
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2022
 wordpress_url: http://blog.staceycardoso.com/?p=2022
 date: 2013-05-28 12:46:07 +08:00

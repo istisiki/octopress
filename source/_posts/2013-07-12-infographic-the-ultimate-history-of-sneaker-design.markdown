@@ -5,7 +5,6 @@ published: true
 title: "Infographic: The Ultimate History Of Sneaker Design"
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2165
 wordpress_url: http://blog.staceycardoso.com/?p=2165
 date: 2013-07-12 12:45:39 +08:00

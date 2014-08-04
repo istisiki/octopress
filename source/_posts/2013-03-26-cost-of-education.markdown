@@ -5,7 +5,6 @@ published: true
 title: Cost of Education
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1866
 wordpress_url: http://blog.staceycardoso.com/?p=1866
 date: 2013-03-26 16:09:29 +08:00

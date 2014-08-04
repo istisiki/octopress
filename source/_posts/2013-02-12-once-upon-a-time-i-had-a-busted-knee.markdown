@@ -5,7 +5,6 @@ published: true
 title: Once Upon a Time I Had a Busted Knee
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1829
 wordpress_url: http://blog.staceycardoso.com/?p=1829
 date: 2013-02-12 12:14:41 +08:00

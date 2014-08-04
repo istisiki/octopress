@@ -5,7 +5,6 @@ published: true
 title: Inbox Zero
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2508
 wordpress_url: http://blog.staceycardoso.com/?p=2508
 date: 2013-11-22 13:41:38 +08:00

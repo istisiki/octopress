@@ -5,7 +5,6 @@ published: true
 title: A Kidnapping!
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2071
 wordpress_url: http://blog.staceycardoso.com/?p=2071
 date: 2013-06-06 13:31:19 +08:00

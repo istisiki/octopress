@@ -5,7 +5,6 @@ published: true
 title: Family Photos
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2532
 wordpress_url: http://blog.staceycardoso.com/?p=2532
 date: 2014-01-06 23:43:00 +08:00

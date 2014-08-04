@@ -5,7 +5,6 @@ published: true
 title: Mah Homies
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2235
 wordpress_url: http://blog.staceycardoso.com/?page_id=2235
 date: 2013-07-24 19:08:25 +08:00

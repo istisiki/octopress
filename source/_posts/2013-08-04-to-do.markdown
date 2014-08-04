@@ -5,7 +5,6 @@ published: true
 title: To Do
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2270
 wordpress_url: http://blog.staceycardoso.com/?page_id=2270
 date: 2013-08-04 15:01:12 +08:00

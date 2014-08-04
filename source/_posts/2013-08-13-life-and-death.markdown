@@ -5,7 +5,6 @@ published: true
 title: "&lt;life&gt;"
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2282
 wordpress_url: http://blog.staceycardoso.com/?p=2282
 date: 2013-08-13 11:59:48 +08:00

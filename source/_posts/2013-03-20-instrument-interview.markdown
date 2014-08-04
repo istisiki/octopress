@@ -5,7 +5,6 @@ published: true
 title: Instrument Interview
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1861
 wordpress_url: http://blog.staceycardoso.com/?p=1861
 date: 2013-03-20 09:42:47 +08:00

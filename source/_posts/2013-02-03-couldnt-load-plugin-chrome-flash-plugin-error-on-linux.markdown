@@ -5,7 +5,6 @@ published: true
 title: Couldn't Load Plugin - Chrome Flash Plugin Error on Linux
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1821
 wordpress_url: http://blog.staceycardoso.com/?p=1821
 date: 2013-02-03 09:06:24 +08:00

@@ -5,7 +5,6 @@ published: true
 title: Ebova
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2302
 wordpress_url: http://blog.staceycardoso.com/?p=2302
 date: 2013-09-01 13:16:45 +08:00

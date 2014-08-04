@@ -5,7 +5,6 @@ published: true
 title: Recover Lost Git Stash
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1948
 wordpress_url: http://blog.staceycardoso.com/?p=1948
 date: 2013-05-26 12:15:52 +08:00

@@ -5,7 +5,6 @@ published: true
 title: Limerick of Dave's Mind
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2313
 wordpress_url: http://blog.staceycardoso.com/?p=2313
 date: 2013-09-09 20:58:58 +08:00

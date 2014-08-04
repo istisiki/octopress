@@ -5,7 +5,6 @@ published: true
 title: Hello Garmin
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2028
 wordpress_url: http://blog.staceycardoso.com/?p=2028
 date: 2013-05-28 22:08:38 +08:00

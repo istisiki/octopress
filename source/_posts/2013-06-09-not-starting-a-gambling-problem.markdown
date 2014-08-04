@@ -5,7 +5,6 @@ published: true
 title: Not Starting a Gambling Problem
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2073
 wordpress_url: http://blog.staceycardoso.com/?p=2073
 date: 2013-06-09 15:51:04 +08:00

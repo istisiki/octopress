@@ -5,7 +5,6 @@ published: true
 title: Yolanda vs. Stacey's Dad
 author: stacey
 author_login: stacey
-author_email:
 wordpress_id: 2467
 wordpress_url: http://blog.staceycardoso.com/?p=2467
 date: 2013-11-13 00:25:13 +08:00

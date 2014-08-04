@@ -5,7 +5,6 @@ published: true
 title: First Time for Everything
 author: stacey
 author_login: stacey
-author_email:
 wordpress_id: 2548
 wordpress_url: http://blog.staceycardoso.com/?p=2548
 date: 2014-01-13 23:29:19 +08:00

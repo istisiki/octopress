@@ -5,7 +5,6 @@ published: true
 title: Getting Back Into Running
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1857
 wordpress_url: http://blog.staceycardoso.com/?p=1857
 date: 2013-03-12 12:50:46 +08:00

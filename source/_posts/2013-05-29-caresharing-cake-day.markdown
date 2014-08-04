@@ -1,20 +1,19 @@
 --- 
-lyout: post
-satus: publish
-ublished: true
-itle: Caresharing Cake Day
-uthor: stacey
-uthor_login: stacey
-uthor_email: staceykay.dc@gmail.com
-wrdpress_id: 2035
-wrdpress_url: http://blog.staceycardoso.com/?p=2035
-dte: 2013-05-29 19:28:29 +08:00
-ategories: 
-- ersonal
-- Wrk
-ags: []
+layout: post
+status: publish
+published: true
+title: Caresharing Cake Day
+author: stacey
+author_login: stacey
+wordpress_id: 2035
+wordpress_url: http://blog.staceycardoso.com/?p=2035
+date: 2013-05-29 19:28:29 +08:00
+categories: 
+- Personal
+- Work
+tags: []
 
-omments: []
+comments: []
 
 ---
 Happy anniversary to my fellow May-hired <a href="http://caresharing.com/about/" target="_blank">CareBears</a>! It feels like I've been here more than one year, that's how welcoming the people are.

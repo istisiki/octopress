@@ -5,7 +5,6 @@ published: true
 title: Year 26
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2172
 wordpress_url: http://blog.staceycardoso.com/?p=2172
 date: 2013-07-19 00:00:39 +08:00

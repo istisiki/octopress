@@ -5,7 +5,6 @@ published: true
 title: Shiela and The Dragon
 author: stacey
 author_login: stacey
-author_email:
 date: 2014-01-30 15:14 +08:00
 categories: 
 - stories

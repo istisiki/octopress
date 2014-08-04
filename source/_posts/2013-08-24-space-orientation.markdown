@@ -5,7 +5,6 @@ published: true
 title: Space Orientation
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2293
 wordpress_url: http://blog.staceycardoso.com/?p=2293
 date: 2013-08-24 23:03:29 +08:00

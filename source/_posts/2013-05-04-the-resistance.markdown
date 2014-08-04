@@ -5,7 +5,6 @@ published: true
 title: The Resistance
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1907
 wordpress_url: http://blog.staceycardoso.com/?p=1907
 date: 2013-05-04 01:59:38 +08:00
@@ -16,14 +15,12 @@ tags: []
 comments: 
 - id: 889
   author: Paolo G. Lim
-  author_email: paologlim@gmail.com
   author_url: http://paologlim.com
   date: 2013-05-05 11:55:15 +0800
   date_gmt: 2013-05-05 03:55:15 +0800
   content: Your office mates seem to be nerdy.
 - id: 890
   author: stacey
-  author_email: staceykay.dc@gmail.com
   author_url: ""
   date: 2013-05-05 12:56:41 +0800
   date_gmt: 2013-05-05 04:56:41 +0800

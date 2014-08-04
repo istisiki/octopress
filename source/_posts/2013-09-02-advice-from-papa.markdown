@@ -5,7 +5,6 @@ published: true
 title: Advice from Papa
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2310
 wordpress_url: http://blog.staceycardoso.com/?p=2310
 date: 2013-09-02 22:57:59 +08:00

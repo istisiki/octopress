@@ -5,7 +5,6 @@ published: true
 title: Difficult Times Ahead
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1922
 wordpress_url: http://blog.staceycardoso.com/?p=1922
 date: 2013-05-11 03:15:06 +08:00
@@ -16,7 +15,6 @@ tags: []
 comments: 
 - id: 893
   author: "&lt;life&gt;"
-  author_email: ""
   author_url: http://blog.staceycardoso.com/2013/08/13/life-and-death/
   date: 2013-08-13 12:05:02 +0800
   date_gmt: 2013-08-13 04:05:02 +0800

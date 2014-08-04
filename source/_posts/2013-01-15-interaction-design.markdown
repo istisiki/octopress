@@ -5,7 +5,6 @@ published: true
 title: Interaction Design
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1809
 wordpress_url: http://blog.staceycardoso.com/?p=1809
 date: 2013-01-15 11:28:20 +08:00

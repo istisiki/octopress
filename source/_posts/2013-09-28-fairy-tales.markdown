@@ -5,7 +5,6 @@ published: true
 title: Fairy Tales
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2405
 wordpress_url: http://blog.staceycardoso.com/?p=2405
 date: 2013-09-28 11:00:14 +08:00

@@ -5,7 +5,6 @@ published: true
 title: Making Friends
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1845
 wordpress_url: http://blog.staceycardoso.com/?p=1845
 date: 2013-02-22 18:33:14 +08:00

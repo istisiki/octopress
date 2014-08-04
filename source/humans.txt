@@ -1,0 +1,12 @@
+/* TEAM */      
+Your title: Stacey Kay D. Cardoso
+Site: staceycardoso.com
+Twitter: heystaceeeyyy
+Location: Cebu City, Cebu
+          Philippines
+
+
+/* SITE */
+Last update: 2014/08/02
+Components: octopress
+Software: vim :)

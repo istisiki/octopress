@@ -5,7 +5,6 @@ published: true
 title: Pretty Pretty Code
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2228
 wordpress_url: http://blog.staceycardoso.com/?p=2228
 date: 2013-07-23 21:42:38 +08:00

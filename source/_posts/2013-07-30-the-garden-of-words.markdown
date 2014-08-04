@@ -5,7 +5,6 @@ published: true
 title: The Garden of Words
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2253
 wordpress_url: http://blog.staceycardoso.com/?p=2253
 date: 2013-07-30 09:00:43 +08:00

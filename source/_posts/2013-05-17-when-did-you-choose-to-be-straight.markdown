@@ -5,7 +5,6 @@ published: true
 title: When did you choose to be straight?
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 1931
 wordpress_url: http://blog.staceycardoso.com/?p=1931
 date: 2013-05-17 11:14:03 +08:00

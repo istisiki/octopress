@@ -5,7 +5,6 @@ published: true
 title: Androgyny
 author: stacey
 author_login: stacey
-author_email: 
 wordpress_id: 2369
 wordpress_url: http://blog.staceycardoso.com/?p=2369
 date: 2013-09-16 10:00:56 +08:00

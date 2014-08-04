@@ -5,7 +5,6 @@ published: true
 title: Transactional Zombies
 author: stacey
 author_login: stacey
-author_email: staceykay.dc@gmail.com
 wordpress_id: 2099
 wordpress_url: http://blog.staceycardoso.com/?p=2099
 date: 2013-06-18 10:39:42 +08:00
